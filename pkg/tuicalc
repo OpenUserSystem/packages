@@ -1,2 +1,2 @@
-wget https://openusersystem.github.io/packages/pkg/_tuicalc/tuicalc && claer
-sudo cp tuicalc /usr/bin/
+wget https://openusersystem.github.io/packages/pkg/0tuicalc/tuicalc && claer
+chmod +x tuicalc && sudo cp tuicalc /usr/bin/
