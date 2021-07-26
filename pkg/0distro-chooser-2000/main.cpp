@@ -13,11 +13,9 @@ int choose;
 int main()
 {
     int max = 101;
-    cout<<"2 operating sistems to choose"<<endl;
-    //I am not good in english
-    cout<<"distro one:";
+    cout<<"frist distro: ";
     cin>>distro1;
-    cout<<"distro two:";
+    cout<<"second distro: ";
     cin>>distro2;
     srand(time(0));
     choose = rand()%max;
