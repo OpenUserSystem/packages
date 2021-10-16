@@ -1,5 +1,6 @@
 wget https://openusersystem.github.io/packages/pkg/0grzejnikPy/grzejnikPy.py && clear
 touch grzejnikPy
+sudo su
 mkdir /etc/nicpkg/grzejnikPy/
 echo python /etc/nicpkg/grzejnikPy/grzejnikPy.py > grzejnikPy
 chmod +x grzejnikPy
