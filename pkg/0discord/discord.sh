@@ -6,4 +6,4 @@ sudo mkdir /etc/nicpkg/discord/
 sudo cp discord-0.0.16.tar.gz /etc/nicpkg/discord/
 sudo cp discord /usr/bin/
 sudo tar -xf /etc/nicpkg/discord/discord-0.0.16.tar.gz
-rm /etc/nicpkg/discord/discord-0.0.16.tar.gz
+sudo rm /etc/nicpkg/discord/discord-0.0.16.tar.gz
