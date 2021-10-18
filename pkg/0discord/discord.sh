@@ -1,6 +1,6 @@
 wget https://dl.discordapp.net/apps/linux/0.0.16/discord-0.0.16.tar.gz
 touch discord
-echo /etc/nicpkg/discord/Discord/ > discord
+echo /etc/nicpkg/discord/Discord/Discord > discord
 chmod +x discord
 sudo mkdir /etc/nicpkg/discord/
 sudo cp discord-0.0.16.tar.gz /etc/nicpkg/discord/
