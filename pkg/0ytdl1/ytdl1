@@ -1,0 +1,2 @@
+read -p': ' link
+youtube-dl -x --audio-format mp3 --prefer-ffmpeg $link
