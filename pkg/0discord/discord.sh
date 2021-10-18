@@ -1,4 +1,4 @@
-file= wget https://dl.discordapp.net/apps/linux/0.0.16/discord-0.0.16.tar.gz
+wget https://dl.discordapp.net/apps/linux/0.0.16/discord-0.0.16.tar.gz
 touch discord
 echo /etc/nicpkg/discord/Discord/ > discord
 chmod +x discord
